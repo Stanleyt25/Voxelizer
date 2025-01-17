@@ -1,0 +1,3 @@
+C:/CS581/Voxelizer/build/CMakeFiles/voxelizer.dir
+C:/CS581/Voxelizer/build/CMakeFiles/edit_cache.dir
+C:/CS581/Voxelizer/build/CMakeFiles/rebuild_cache.dir
